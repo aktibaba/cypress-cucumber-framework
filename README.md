@@ -1,6 +1,6 @@
-## 1- install cypress
+## install cypress and required dependencies
  - npm install cypress --save-dev
-## 2-install cypress cucumber
- - npm install @badeball/cypress-cucumber-preprocessor
-## 3-install Cypress Browserify Preprocessor
- - npm install --save-dev @cypress/browserify-preprocessor
+## to run in headless mode 
+ - npx cypress run 
+## to run in open mode
+ - npx cypress run 
